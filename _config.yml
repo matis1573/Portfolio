@@ -3,12 +3,12 @@ markdown: kramdown
 
 # for atom feed
 description: "Portfolio de Marwan Zoghbi - Développeur et Designer. Découvrez mes projets en Python, mes créations graphiques et mon parcours."
-url: "https://marwan-zoghbi.com" # Remplace par ton vrai domaine plus tard
+url: "https://marwan-zoghbi.com" 
 author:
   name: Marwan Zoghbi
   email: matis.zoghbi@epitech.eu
-  twitter: marwan_zoghbi # Exemple
-  github: MarwanZoghbi # Exemple
+  twitter: marwan_zoghbi
+  github: MarwanZoghbi
 
 plugins:
   - jemoji
